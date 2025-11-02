@@ -1,0 +1,24 @@
+# Android / Gradle
+.gradle/
+**/build/
+.cxx/
+.externalNativeBuild/
+local.properties
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Android Studio / AVD & device keys
+.android/
+**/captures/
+*.keystore
+*.jks
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
